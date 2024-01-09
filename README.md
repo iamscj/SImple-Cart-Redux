@@ -1,4 +1,4 @@
-# Simple Cart Implemented Using Redux
+# Simple Cart Implemented Using Redux and Typescript
 
 https://creative-nasturtium-46f091.netlify.app/
 
